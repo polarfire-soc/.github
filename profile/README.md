@@ -12,7 +12,7 @@ and its development kits.
 
 ## Getting Started
 
-A quick start guide is available for the PolarFire SoC Icicle Kit [here](https://www.microsemi.com/products/fpga-soc/polarfire-soc-icicle-quick-start-guide).
+For getting started information please see the [PolarFire SoC Icicle Kit quick start guide](https://www.microsemi.com/products/fpga-soc/polarfire-soc-icicle-quick-start-guide).
 
 The [documentation repository](https://github.com/polarfire-soc/polarfire-soc-documentation)
 has more detailed information on how to use the resources contained in this organization.
