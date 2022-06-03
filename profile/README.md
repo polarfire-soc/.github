@@ -34,7 +34,7 @@ training series provides webinars describing different aspects of PolarFire SoC.
 
 ## Resources
 
-Below is a list of the different deliverables that can be found in this
+Below is a list of the different resources that can be found in this
 organization:
 
 **Documentation**
