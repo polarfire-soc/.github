@@ -65,8 +65,8 @@ organization:
 - [PolarFire SoC Yocto BSP](https://github.com/polarfire-soc/meta-polarfire-soc-yocto-bsp):
   Yocto based Linux build system for PolarFire SoC
 
-- [PolarFire SoC Buildroot SDK](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk):
-  Buildroot based Linux build system for PolarFire SoC
+- [Microchip Buildroot External](https://github.com/linux4microchip/buildroot-external-microchip):
+  Buildroot based Linux build system for PolarFire SoC & other Microchip SoCs.
 
 **Real Time Operating Systems (RTOS)**
 
