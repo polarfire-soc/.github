@@ -12,7 +12,9 @@ and its development kits.
 
 ## Getting Started
 
-For getting started information please see the [PolarFire SoC Icicle Kit quick start guide](https://www.microsemi.com/products/fpga-soc/polarfire-soc-icicle-quick-start-guide).
+For getting started information on the Icicle Kit please see the [PolarFire SoC Icicle Kit quick start guide](https://www.microsemi.com/products/fpga-soc/polarfire-soc-icicle-quick-start-guide).
+
+For getting started information on the Video Kit please see the [PolarFire SoC Video Kit quick start guide](https://onlinedocs.microchip.com/v2/literature/DS50003455?version=latest&redirect=true).
 
 The [documentation repository](https://github.com/polarfire-soc/polarfire-soc-documentation)
 has more detailed information on how to use the resources contained in this organization.
@@ -46,6 +48,9 @@ organization:
 
 - [Icicle Kit Reference Design](https://github.com/polarfire-soc/icicle-kit-reference-design):
   scripts to generate an FPGA reference design for the PolarFire SoC Icicle Kit
+
+- [Video Kit Reference Design](https://github.com/polarfire-soc/polarfire-soc-video-kit-reference-design):
+  scripts to generate an FPGA reference design for the PolarFire SoC Video Kit
 
 **Bare Metal Embedded Software**
 
