@@ -46,6 +46,9 @@ organization:
 
 **Reference designs**
 
+- [Discovery Kit Reference Design](https://mi-v-ecosystem.github.io/redirects/repo-discovery-kit-reference-design):
+  scripts to generate FPGA reference designs for the PolarFire SoC Discovery Kit
+
 - [Icicle Kit Reference Design](https://github.com/polarfire-soc/icicle-kit-reference-design):
   scripts to generate an FPGA reference design for the PolarFire SoC Icicle Kit
 
