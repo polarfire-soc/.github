@@ -76,6 +76,12 @@ organization:
 - [Microchip Buildroot External](https://github.com/linux4microchip/buildroot-external-microchip):
   Buildroot based Linux build system for PolarFire SoC & other Microchip SoCs.
 
+**Linux Distributions**
+
+- [Ubuntu Server](https://ubuntu.com/download/risc-v): Ubuntu Server images for the PolarFire SoC Icicle Kit.
+
+  **Note:** these images are maintained by Cannonical, for any issues please reach out directly to them.
+
 **Real Time Operating Systems (RTOS)**
 
 - [Zephyr](https://github.com/polarfire-soc/zephyr): fork of the upstream Zephyr repository with
