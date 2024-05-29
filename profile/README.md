@@ -84,8 +84,8 @@ organization:
 
 **Real Time Operating Systems (RTOS)**
 
-- [Zephyr](https://github.com/polarfire-soc/zephyr): fork of the upstream Zephyr repository with
-  support for PolarFire SoC
+- [Zephyr](https://github.com/polarfire-soc/zephyr-applications): Zephyr sample applications and
+  tools which provide support for PolarFire SoC
 
 - [RTEMS](https://github.com/polarfire-soc/rtems): fork of the upstream RTEMS repository with
   support for PolarFire SoC
