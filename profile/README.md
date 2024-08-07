@@ -82,6 +82,10 @@ organization:
 
   **Note:** these images are maintained by Cannonical, for any issues please reach out directly to them.
 
+- [BeagleV-Fire Ubuntu](https://www.beagleboard.org/distros): Ubuntu image for the Beagle-V Fire.
+
+  **Note:** these images are maintained by the BeagleBoard.org Foundation, for any issues please reach out directly to them.
+
 **Real Time Operating Systems (RTOS)**
 
 - [Zephyr](https://github.com/polarfire-soc/zephyr-applications): Zephyr sample applications and
